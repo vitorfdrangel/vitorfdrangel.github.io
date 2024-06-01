@@ -8,12 +8,12 @@
 
 /* Variables */
 :root {
-  --main-color: #af8104;
+  --main-color: #56b856;
   --main-text-color: #fff;
   --border-color: #999;
-  --bio-bg-color: #1c1c1c;
+  --bio-bg-color: #061306;
   --bio-border-color: #999;
-  --about-bg-color: #1c1c1c;
+  --about-bg-color: #000600;
 }
 
 /* General */
@@ -86,6 +86,7 @@
 #email-container {
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 #email-container ion-icon,
